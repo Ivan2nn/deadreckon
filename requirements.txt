@@ -4,6 +4,4 @@ numpy
 scipy
 matplotlib
 gunicorn
-dj-databse-url
 whitenoise
-psycopg2
